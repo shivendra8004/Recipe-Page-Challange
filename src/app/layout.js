@@ -6,6 +6,7 @@ import "./globals.css";
 export const metadata = {
     title: "Recipe Page",
     description: "Developed by Shivendra Jat",
+    icon: "/Images/icon.png",
 };
 
 export default function RootLayout({ children }) {
