@@ -8,8 +8,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/shivendra8004/Recipe-Page-Challange.git)
--   Live Site URL: [Add live site URL here](https://recipe-page-shivendra.netlify.app/)
+-   Solution URL: [Github Repo](https://github.com/shivendra8004/Recipe-Page-Challange.git)
+-   Live Site URL: [Netlify](https://recipe-page-shivendra.netlify.app/)
 
 ### Built with
 
